@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "expo-javascriptpy",
+    "name": "JavascriptPY",
     "slug": "expo-javascriptpy",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -13,9 +13,7 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
